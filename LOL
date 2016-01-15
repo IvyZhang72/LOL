@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>英雄联盟</title>
+	<meta name="keywords" content="游戏 LOL 新手礼包 奖励">
+	<meta charset="utf-8">
+	<!--link-->
+	<link rel="stylesheet" href="css/LOL.css">
+</head>
+<body>
+    <div class="container">
+    <!--header-->
+    <header>
+        <div class="home">
+        	   <ul class="captain">
+        		   <li><a class="one" href="www.baidu.com">首页</a></li>
+        		   <li><a  calss="two" href="www.baidu.com">新手礼包</a></li>
+        		   <li class="last"><a class="three" href="www.baidu.com">英雄专题</a></li>
+        		   <div class="clear"></div>
+        	   </ul>
+           </div>
+    </header>
+
+
+    <!--center-->
+    <div class="center">
+
+        <div class="left">
+    	    <img  src="/Users/zhangmeng/Desktop/LOL/images/lol1-Recovered_03.jpg"/>
+    	</div>
+
+    	<div class="right">
+    	    <div class="newletter">
+    		   <h1 class="zixun">最新资讯</h1>
+    		</div>
+    		<div class="list">
+    		    <ul>
+    		       <li><a href="www.baidu.com">[综合]奎因定位非常尴尬 设计师表示即将改动 </a><span class="date">06/10</span></li>
+    		       <li><a href="www.baidu.com">[综合]延请外援阵容调整 夏季赛六大悬念盘点 </a><span class="date">06/10</span></li>
+    		       <li><a href="www.baidu.com">[综合]测试服6.10最新更新 鬼畜妖异一去不回</a><span class="date">06/10</span></li>
+    		       <li><a href="www.baidu.com">[综合]LOL玩家最爱模式盘点 无限活力荣登榜首</a><span class="date">06/10</span></li>
+    		       <li><a href="www.baidu.com">[综合]得换首秀惊艳全场 新皇族还能走多远？</a><span class="date">06/10</span></li>
+    		       <li><a href="www.baidu.com">[综合]LOL玩家最爱模式抹点 无限活力荣登榜首</a><span class="date">06/10</span></li>
+    		       <li><a href="www.baidu.com">[综合]的坏首秀经验全产 新皇族还能能走多远</a><span class="date">06/10</span></li>
+    		   </ul>
+    		   <p class="lookup"><a href="www.baidu.com">查看更多</a></p>
+
+
+    		</div>
+        </div>
+    		<div class="clear"></div>
+    </div>
+    <!--footer-->
+    <div class="footer">
+    	<p>版权：XXXXXXXXXXXXXX</p>	
+    	
+    </div>
+
+</div>
+
+</body>
+</html>

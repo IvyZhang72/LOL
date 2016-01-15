@@ -1,0 +1,160 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  font-family:sans-serif;
+  
+  text-align: center;
+  font-size: 16px;
+
+}
+.container {
+  text-align: left;
+  width: 1003px;
+  margin: 0 auto;
+  background-image: url("/Users/zhangmeng/Desktop/LOL/images/lol1-Recovered_01.jpg");
+  linear-gradient:(to bottom,#e7e8eb,#ffffff);
+  background-repeat:no-repeat;
+}
+
+
+.home {
+  width: 1003px;
+  padding-top: 300px;
+  padding-bottom: 25px;
+}
+
+.captain li {
+  float: left;
+  border-right:1px solid white;
+  text-align: center;
+  list-style: none;
+  padding:12px 0;
+  line-height: 27dpx;
+  width: 33%;
+  background: rgba(158,154,158,0.7);
+
+
+}
+.last {
+  border-right: none !important;
+}
+
+.newletter {
+  height: 83px;
+  background-color: rgb(32,151,145);
+}
+
+.zixun {
+  padding: 20px;
+  text-align: center;
+  line-height: 41px;
+  color: white;
+  letter-spacing: 5px;
+}
+
+.list {
+  background-color: rgb(10,30,31);
+  height: 294px;
+  text-indent: 20px;
+  position:relative;
+}
+
+.list ul {
+  padding-top: 20px;
+}
+
+.list li {
+  margin-left: auto;
+  padding-bottom: 11px;
+
+}
+
+.clear {
+  clear: both;
+}
+
+a:link,
+a:visited,
+a:hover,
+a:active {
+  text-decoration: none;
+  color: white;
+  font-size: 14px;
+  font-weight: 100;
+}
+
+.center {
+  border-bottom: 7px solid #129792;
+  padding-bottom: 38px;
+  margin-bottom: 17px;
+}
+
+.left {
+  margin-left: 22px;
+  float: left;
+}
+
+.right {
+  width: 402px;
+  float: left;
+}
+
+
+
+.footer {
+  color:  #129792;
+  font-size: 18px;
+  text-align: center;
+}
+
+li .date {
+  color: white;
+  padding-right: 1px;
+  font-size: 14px;
+}
+
+.list ul li a {
+  display: inline-block;
+  width: 330px;
+  overflow: hidden;
+  text-overflow:ellipsis;
+  white-space: nowrap;
+}
+
+
+.lookup {
+  position: absolute;
+  right: 15px;
+  bottom:5px;
+}
+
+.lookup a:link {
+  color: gray;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
